@@ -19,7 +19,7 @@
         {
           "word": "Rádi ",
           "role": "Subject",
-          "case": ""
+          "case": null
         },
         {
           "word": "tančíme.",
@@ -334,16 +334,22 @@
           "subtype": "place"
         },
         {
-          "word": "se jí",
+          "word": "se",
           "role": "Verb",
           "case": null,
           "subtype": null
         },
         {
-          "word": "dobře.",
+          "word": "dobře",
           "role": "Complement",
           "case": null,
           "subtype": "manner"
+        },
+        {
+          "word": "jí.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
         }
       ]
     },
@@ -735,7 +741,7 @@
           "subtype": "manner"
         },
         {
-          "word": "pohár vody!",
+          "word": "pohár vody.",
           "role": "DirectObject",
           "case": "accusative",
           "subtype": null
@@ -948,15 +954,15 @@
           "case": "nominative"
         },
         {
-          "word": "není",
-          "role": "Verb",
-          "case": null
-        },
-        {
-          "word": "tady.",
+          "word": "tady",
           "role": "Predicate",
           "case": null,
           "subtype": "place"
+        },
+        {
+          "word": "není.",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -1365,7 +1371,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Děkuji",
+          "word": "Děkuji,",
           "role": "Verb",
           "case": null
         },
@@ -1476,7 +1482,7 @@
         {
           "word": "Dáme si ",
           "role": "Verb",
-          "case": ""
+          "case": null
         },
         {
           "word": "kolu a džus.",
@@ -1510,14 +1516,14 @@
     },
     {
       "chapter": 8,
-      "czech": "Chci eště jednu porci zmrzliny!",
+      "czech": "Chci ještě jednu porci zmrzliny!",
       "english": "I want one more portion of ice cream!",
       "silentSubject": "já",
       "tokens": [
         {
           "word": "Chci ",
           "role": "Verb",
-          "case": ""
+          "case": null
         },
         {
           "word": "ještě jednu porci zmrzliny!",
@@ -1651,7 +1657,7 @@
       "silentSubject": "vy",
       "tokens": [
         {
-          "word": "Můžete zkontrolovat",
+          "word": "Můžete",
           "role": "Verb",
           "case": null
         },
@@ -1659,6 +1665,11 @@
           "word": "mi",
           "role": "IndirectObject",
           "case": "dative"
+        },
+        {
+          "word": "zkontrolovat",
+          "role": "Verb",
+          "case": null
         },
         {
           "word": "účet?",
@@ -1708,7 +1719,7 @@
           "case": null
         },
         {
-          "word": "jeden šampon za 89 korun",
+          "word": "jeden šampon za 89 korun.",
           "role": "Predicate",
           "case": "nominative"
         }
@@ -1792,7 +1803,17 @@
           "subtype": "time"
         },
         {
-          "word": "jsem si dala",
+          "word": "jsem si",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ho",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "dala",
           "role": "Verb",
           "case": null
         },
@@ -1801,11 +1822,6 @@
           "role": "Complement",
           "case": "genitive",
           "subtype": "place"
-        },
-        {
-          "word": "ho",
-          "role": "DirectObject",
-          "case": "accusative"
         }
       ]
     },
@@ -2087,14 +2103,14 @@
           "case": null
         },
         {
-          "word": "běžové sako.",
-          "role": "Subject",
-          "case": "nominative"
-        },
-        {
-          "word": " mi",
+          "word": "mi",
           "role": "IndirectObject",
           "case": "dative"
+        },
+        {
+          "word": "béžové sako.",
+          "role": "Subject",
+          "case": "nominative"
         }
       ]
     },
@@ -2440,7 +2456,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Umím udělat",
+          "word": "Umím",
           "role": "Verb",
           "case": null
         },
@@ -2448,6 +2464,11 @@
           "word": "to",
           "role": "DirectObject",
           "case": "accusative"
+        },
+        {
+          "word": "udělat",
+          "role": "Verb",
+          "case": null
         },
         {
           "word": "lépe než ty.",
@@ -2651,15 +2672,20 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Chtěla bych si sednout",
+          "word": "Chtěla bych si",
           "role": "Verb",
           "case": null
         },
         {
-          "word": "někde.",
+          "word": "někde",
           "role": "Complement",
           "case": null,
           "subtype": "place"
+        },
+        {
+          "word": "sednout.",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -2749,7 +2775,7 @@
           "case": null
         },
         {
-          "word": "čokolády.",
+          "word": "čokolády!",
           "role": "Subject",
           "case": "nominative"
         }
@@ -2787,7 +2813,7 @@
         {
           "word": "taky ",
           "role": "Complement",
-          "case": "",
+          "case": null,
           "subtype": null
         },
         {
@@ -2834,7 +2860,17 @@
           "subtype": "manner"
         },
         {
-          "word": "jsem zapomněla",
+          "word": "jsem",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ji",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "zapomněla",
           "role": "Verb",
           "case": null
         },
@@ -2843,11 +2879,6 @@
           "role": "Complement",
           "case": null,
           "subtype": "place"
-        },
-        {
-          "word": " ji",
-          "role": "DirectObject",
-          "case": "accusative"
         }
       ]
     },
@@ -2858,7 +2889,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Nevadí",
+          "word": "Nevadí,",
           "role": "Verb",
           "case": null
         },
@@ -2893,7 +2924,7 @@
           "case": null
         },
         {
-          "word": "ale dlouhá fronta.",
+          "word": "ale dlouhá fronta!",
           "role": "Subject",
           "case": "nominative"
         }
@@ -2913,7 +2944,7 @@
         {
           "word": "nejméně půl hodiny.",
           "role": "Complement",
-          "case": "",
+          "case": null,
           "subtype": "time"
         }
       ]
@@ -2936,7 +2967,7 @@
           "case": null
         },
         {
-          "word": "krásné věci.",
+          "word": "krásné věci!",
           "role": "DirectObject",
           "case": "accusative"
         }
@@ -2949,14 +2980,14 @@
       "silentSubject": "ty",
       "tokens": [
         {
-          "word": "ty nádherné šaty",
-          "role": "DirectObject",
-          "case": "accusative"
-        },
-        {
           "word": "Musíš mít",
           "role": "Verb",
-          "case": ""
+          "case": null
+        },
+        {
+          "word": "ty nádherné šaty!",
+          "role": "DirectObject",
+          "case": "accusative"
         }
       ]
     },
@@ -2967,7 +2998,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Chtěla bych si prohlédnout.",
+          "word": "Chtěla bych si",
           "role": "Verb",
           "case": null
         },
@@ -2975,6 +3006,11 @@
           "word": "je",
           "role": "DirectObject",
           "case": "accusative"
+        },
+        {
+          "word": "prohlédnout.",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3010,7 +3046,17 @@
           "subtype": "time"
         },
         {
-          "word": "sis  koupila",
+          "word": "sis",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "přece",
+          "role": "Complement",
+          "case": null
+        },
+        {
+          "word": "koupila",
           "role": "Verb",
           "case": null
         },
@@ -3018,11 +3064,6 @@
           "word": "sukni.",
           "role": "DirectObject",
           "case": "accusative"
-        },
-        {
-          "word": "přece",
-          "role": "Complement",
-          "case": ""
         }
       ]
     },
@@ -3038,14 +3079,19 @@
           "case": "nominative"
         },
         {
-          "word": "se líbí.",
+          "word": "se",
           "role": "Verb",
           "case": null
         },
         {
-          "word": " mi ",
+          "word": "mi",
           "role": "IndirectObject",
           "case": "dative"
+        },
+        {
+          "word": "líbí.",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3097,7 +3143,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Můžu ukázat?",
+          "word": "Můžu",
           "role": "Verb",
           "case": null
         },
@@ -3110,6 +3156,11 @@
           "word": "něco",
           "role": "DirectObject",
           "case": "accusative"
+        },
+        {
+          "word": "ukázat?",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3185,7 +3236,7 @@
           "case": "nominative"
         },
         {
-          "word": "se  líbí?",
+          "word": "se",
           "role": "Verb",
           "case": null
         },
@@ -3193,6 +3244,11 @@
           "word": "vám",
           "role": "IndirectObject",
           "case": "dative"
+        },
+        {
+          "word": "líbí?",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3209,7 +3265,17 @@
           "subtype": "manner"
         },
         {
-          "word": "se  líbí",
+          "word": "se",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "líbí",
           "role": "Verb",
           "case": null
         },
@@ -3217,11 +3283,6 @@
           "word": "tohle šedivé sako.",
           "role": "Subject",
           "case": "nominative"
-        },
-        {
-          "word": "mi",
-          "role": "IndirectObject",
-          "case": "dative"
         }
       ]
     },
@@ -3255,7 +3316,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Můžu si  zkusit?",
+          "word": "Můžu si",
           "role": "Verb",
           "case": null
         },
@@ -3263,6 +3324,11 @@
           "word": "ho",
           "role": "DirectObject",
           "case": "accusative"
+        },
+        {
+          "word": "zkusit?",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3415,7 +3481,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Mám si  vzít?",
+          "word": "Mám si",
           "role": "Verb",
           "case": null
         },
@@ -3423,6 +3489,11 @@
           "word": "ji",
           "role": "DirectObject",
           "case": "accusative"
+        },
+        {
+          "word": "vzít?",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3461,9 +3532,21 @@
           "case": null
         },
         {
-          "word": "ti.",
+          "word": "ti,",
           "role": "IndirectObject",
           "case": "dative"
+        },
+        {
+          "word": "má",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "veselou barvu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
         }
       ]
     },
@@ -3498,7 +3581,7 @@
           "subtype": "manner"
         },
         {
-          "word": "si  musíš koupit.",
+          "word": "si",
           "role": "Verb",
           "case": null
         },
@@ -3506,6 +3589,11 @@
           "word": "ho",
           "role": "DirectObject",
           "case": "accusative"
+        },
+        {
+          "word": "musíš koupit.",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3546,14 +3634,14 @@
           "subtype": "manner"
         },
         {
-          "word": " sluší",
-          "role": "Verb",
-          "case": null
-        },
-        {
           "word": "mi",
           "role": "DirectObject",
           "case": "dative"
+        },
+        {
+          "word": "sluší.",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3588,9 +3676,14 @@
       "silentSubject": "vy",
       "tokens": [
         {
-          "word": "Chcete si  zkusit?",
+          "word": "Chcete si",
           "role": "Verb",
           "case": null
+        },
+        {
+          "word": "je",
+          "role": "DirectObject",
+          "case": "accusative"
         },
         {
           "word": "také",
@@ -3599,9 +3692,9 @@
           "subtype": "manner"
         },
         {
-          "word": "je",
-          "role": "DirectObject",
-          "case": "accusative"
+          "word": "zkusit?",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3630,7 +3723,7 @@
       "silentSubject": "my",
       "tokens": [
         {
-          "word": "Děkujeme",
+          "word": "Děkujeme,",
           "role": "Verb",
           "case": null
         },
@@ -3695,15 +3788,21 @@
       "silentSubject": "my",
       "tokens": [
         {
+          "word": "Ne,",
+          "role": "Complement",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "budeme platit",
+          "role": "Verb",
+          "case": null
+        },
+        {
           "word": "platební kartou.",
           "role": "Complement",
           "case": "instrumental",
           "subtype": "manner"
-        },
-        {
-          "word": "budeme platit ",
-          "role": "Verb",
-          "case": ""
         }
       ]
     },
@@ -3734,7 +3833,7 @@
         {
           "word": "Nejraději",
           "role": "Complement",
-          "case": ""
+          "case": null
         },
         {
           "word": " bych šla",
@@ -3847,7 +3946,7 @@
       "silentSubject": "ty",
       "tokens": [
         {
-          "word": "Nechceš  koupit?",
+          "word": "Nechceš",
           "role": "Verb",
           "case": null
         },
@@ -3855,6 +3954,11 @@
           "word": "ji",
           "role": "DirectObject",
           "case": "accusative"
+        },
+        {
+          "word": "koupit?",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -3966,7 +4070,7 @@
           "case": null
         },
         {
-          "word": "mě",
+          "word": "mě,",
           "role": "IndirectObject",
           "case": "accusative"
         },
@@ -3984,7 +4088,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Chci představit",
+          "word": "Chci",
           "role": "Verb",
           "case": null
         },
@@ -3992,6 +4096,11 @@
           "word": "vám",
           "role": "IndirectObject",
           "case": "dative"
+        },
+        {
+          "word": "představit",
+          "role": "Verb",
+          "case": null
         },
         {
           "word": "svého přítele.",
@@ -4032,14 +4141,19 @@
           "subtype": "time"
         },
         {
-          "word": "se  uvidíme?",
+          "word": "se",
           "role": "Verb",
           "case": null
         },
         {
           "word": "zase",
           "role": "Complement",
-          "case": ""
+          "case": null
+        },
+        {
+          "word": "uvidíme?",
+          "role": "Verb",
+          "case": null
         }
       ]
     },
@@ -4380,9 +4494,15 @@
           "subtype": null
         },
         {
-          "word": "rád.",
+          "word": "rád,",
           "role": "Predicate",
-          "case": "",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "že vás poznávám.",
+          "role": "Complement",
+          "case": null,
           "subtype": null
         }
       ]
@@ -4486,7 +4606,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Můžu nabídnout",
+          "word": "Můžu",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -4495,6 +4615,12 @@
           "word": "vám",
           "role": "IndirectObject",
           "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "nabídnout",
+          "role": "Verb",
+          "case": null,
           "subtype": null
         },
         {
@@ -4512,13 +4638,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Děkuju",
-          "role": "Verb",
-          "case": null,
-          "subtype": null
-        },
-        {
-          "word": " si vezmu.",
+          "word": "Děkuju,",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -4526,7 +4646,13 @@
         {
           "word": "rád",
           "role": "Complement",
-          "case": ""
+          "case": null
+        },
+        {
+          "word": "si vezmu.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
         }
       ]
     },
@@ -4569,7 +4695,7 @@
           "subtype": "manner"
         },
         {
-          "word": "bychom chtěli projednat",
+          "word": "bychom chtěli",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -4578,6 +4704,12 @@
           "word": "s vámi",
           "role": "Complement",
           "case": "instrumental",
+          "subtype": null
+        },
+        {
+          "word": "projednat",
+          "role": "Verb",
+          "case": null,
           "subtype": null
         },
         {
@@ -4713,7 +4845,7 @@
         {
           "word": "teď ",
           "role": "Complement",
-          "case": ""
+          "case": null
         },
         {
           "word": "bude",
@@ -4748,7 +4880,7 @@
           "subtype": "place"
         },
         {
-          "word": "dva nové .",
+          "word": "dva nové servisy.",
           "role": "DirectObject",
           "case": "accusative",
           "subtype": null
@@ -4825,7 +4957,7 @@
           "subtype": "time"
         },
         {
-          "word": "si  prostuduju.",
+          "word": "si",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -4834,6 +4966,12 @@
           "word": "ji",
           "role": "DirectObject",
           "case": "accusative"
+        },
+        {
+          "word": "prostuduju.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
         }
       ]
     },
@@ -4850,7 +4988,7 @@
           "subtype": null
         },
         {
-          "word": "zítra.",
+          "word": "zítra?",
           "role": "Complement",
           "case": null,
           "subtype": "time"
@@ -4910,7 +5048,7 @@
       "silentSubject": "my",
       "tokens": [
         {
-          "word": "Budeme jednat",
+          "word": "Budeme",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -4919,6 +5057,12 @@
           "word": "o nich",
           "role": "Complement",
           "case": "locative",
+          "subtype": null
+        },
+        {
+          "word": "jednat",
+          "role": "Verb",
+          "case": null,
           "subtype": null
         },
         {
@@ -4942,10 +5086,15 @@
           "subtype": null
         },
         {
-          "word": "se  hodí?",
+          "word": "se",
           "role": "Verb",
           "case": null,
           "subtype": null
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative"
         },
         {
           "word": "zítra",
@@ -4954,9 +5103,10 @@
           "subtype": "time"
         },
         {
-          "word": "vám",
-          "role": "IndirectObject",
-          "case": "dative"
+          "word": "hodí?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
         }
       ]
     },
@@ -4987,7 +5137,7 @@
       "silentSubject": "já",
       "tokens": [
         {
-          "word": "Kdybych nemohl přijít",
+          "word": "Kdybych nemohl přijít,",
           "role": "Complement",
           "case": null,
           "subtype": "condition"
@@ -5553,7 +5703,7 @@
         {
           "word": " jít ",
           "role": "DirectObject",
-          "case": "",
+          "case": null,
           "subtype": "place"
         },
         {
@@ -5567,10 +5717,10 @@
       "chapter": 15,
       "czech": "Hledám brigádu.",
       "english": "I'm looking for a summer job.",
-      "silentSubject": "my",
+      "silentSubject": "já",
       "tokens": [
         {
-          "word": "Hledáme",
+          "word": "Hledám",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -5616,9 +5766,9 @@
           "subtype": null
         },
         {
-          "word": "průvodkyní ",
+          "word": "průvodkyně",
           "role": "Predicate",
-          "case": "instrumental",
+          "case": "nominative",
           "subtype": null
         },
         {
@@ -5681,7 +5831,7 @@
           "subtype": null
         },
         {
-          "word": "jsem byla.",
+          "word": "jsem",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -5691,6 +5841,12 @@
           "role": "Predicate",
           "case": null,
           "subtype": "place"
+        },
+        {
+          "word": "byla.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
         }
       ]
     },
@@ -6255,15 +6411,15 @@
       "silentSubject": "ono",
       "tokens": [
         {
-          "word": "Ať ",
+          "word": "Ať",
           "role": "Complement",
           "case": null,
           "subtype": null
         },
         {
-          "word": "u nás",
-          "role": "Complement",
-          "case": "genitive"
+          "word": "se",
+          "role": "Verb",
+          "case": null
         },
         {
           "word": "vám",
@@ -6271,9 +6427,14 @@
           "case": "dative"
         },
         {
-          "word": "se   líbí.",
+          "word": "u nás",
+          "role": "Complement",
+          "case": "genitive"
+        },
+        {
+          "word": "líbí.",
           "role": "Verb",
-          "case": ""
+          "case": null
         }
       ]
     },
@@ -6539,7 +6700,18 @@
           "subtype": "place"
         },
         {
-          "word": "se  líbilo",
+          "word": "se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "líbilo",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -6549,11 +6721,6 @@
           "role": "Complement",
           "case": null,
           "subtype": "manner"
-        },
-        {
-          "word": "vám",
-          "role": "IndirectObject",
-          "case": "dative"
         }
       ]
     },
@@ -6649,7 +6816,7 @@
         {
           "word": "tady",
           "role": "Complement",
-          "case": ""
+          "case": null
         },
         {
           "word": " přivezu.",
@@ -7027,7 +7194,7 @@
       "silentSubject": "vy",
       "tokens": [
         {
-          "word": "Nechcete bydlet",
+          "word": "Nechcete",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -7039,7 +7206,13 @@
           "subtype": "manner"
         },
         {
-          "word": "daleko od centra?",
+          "word": "bydlet",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "daleko od centra.",
           "role": "Complement",
           "case": "genitive",
           "subtype": "place"
@@ -7065,13 +7238,13 @@
           "subtype": null
         },
         {
-          "word": "jeden byt.",
+          "word": "jeden byt",
           "role": "DirectObject",
           "case": "accusative",
           "subtype": null
         },
         {
-          "word": "ve čtvrti na kraji města",
+          "word": "ve čtvrti na kraji města.",
           "role": "Complement",
           "case": "locative",
           "subtype": "place"
@@ -7091,10 +7264,16 @@
           "subtype": null
         },
         {
-          "word": "se  nelíbí,",
+          "word": "se",
           "role": "Verb",
           "case": null,
           "subtype": null
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": "manner"
         },
         {
           "word": "také moc",
@@ -7103,10 +7282,10 @@
           "subtype": "manner"
         },
         {
-          "word": "vám",
-          "role": "IndirectObject",
-          "case": "dative",
-          "subtype": "manner"
+          "word": "nelíbí.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
         }
       ]
     },
@@ -7291,7 +7470,7 @@
       "silentSubject": "vy",
       "tokens": [
         {
-          "word": "Chcete pomoct?",
+          "word": "Chcete",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -7300,6 +7479,12 @@
           "word": "jí",
           "role": "IndirectObject",
           "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "pomoct?",
+          "role": "Verb",
+          "case": null,
           "subtype": null
         }
       ]
@@ -7433,7 +7618,7 @@
           "subtype": null
         },
         {
-          "word": "začne vyprávět",
+          "word": "začne vyprávět,",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -7938,7 +8123,7 @@
       "silentSubject": "—",
       "tokens": [
         {
-          "word": "Kolik let",
+          "word": "Kolik",
           "role": "Subject",
           "case": "genitive",
           "subtype": null
@@ -7950,9 +8135,15 @@
           "subtype": null
         },
         {
-          "word": "vám?",
+          "word": "vám",
           "role": "IndirectObject",
           "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "let?",
+          "role": "Subject",
+          "case": "genitive",
           "subtype": null
         }
       ]
@@ -8076,15 +8267,21 @@
       "silentSubject": "vy",
       "tokens": [
         {
-          "word": "Kolik dětí",
+          "word": "Kolik",
           "role": "DirectObject",
           "case": "genitive",
           "subtype": null
         },
         {
-          "word": "máte?",
+          "word": "máte",
           "role": "Verb",
           "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dětí?",
+          "role": "DirectObject",
+          "case": "genitive",
           "subtype": null
         }
       ]
@@ -8220,7 +8417,7 @@
           "subtype": null
         },
         {
-          "word": "jste  navštívil?",
+          "word": "jste",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -8229,6 +8426,12 @@
           "word": "už",
           "role": "Complement",
           "case": null
+        },
+        {
+          "word": "navštívil?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
         }
       ]
     },
@@ -8271,15 +8474,15 @@
           "subtype": null
         },
         {
-          "word": "o češtině",
+          "word": "víte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "o češtině?",
           "role": "Complement",
           "case": "locative",
           "subtype": null
-        },
-        {
-          "word": "víte",
-          "role": "Verb",
-          "case": ""
         }
       ]
     }
