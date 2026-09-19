@@ -1,0 +1,8282 @@
+{
+  "levelLabels": {
+    "1": "",
+    "2": "",
+    "3": ""
+  },
+  "chapterLabels": {
+    "1": "",
+    "8": "",
+    "15": ""
+  },
+  "sentences": [
+    {
+      "level": 1,
+      "czech": "Rádi tančíme.",
+      "english": "We like to dance.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "tančíme.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "Rádi ",
+          "role": "Subject",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Včera nepracovali.",
+      "english": "Yesterday they didn't work.",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "Včera",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "nepracovali.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Tam se nesvítí.",
+      "english": "The light isn't on there.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tam",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "se nesvítí.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Kdy spíš?",
+      "english": "When do you sleep?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Kdy",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "spíš?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Moji rodiče nepřijdou.",
+      "english": "My parents won't come.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Moji rodiče",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "nepřijdou.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Doma se cítím dobře.",
+      "english": "I feel good at home.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Doma",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "se cítím",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dobře.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Zítra budeme odpočívat.",
+      "english": "Tomorrow we will rest.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Zítra",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "budeme odpočívat.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Čti nahlas!",
+      "english": "Read aloud!",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Čti",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "nahlas!",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Vždycky mluví pravdu.",
+      "english": "He always tells the truth.",
+      "silentSubject": "on",
+      "tokens": [
+        {
+          "word": "Vždycky",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "mluví",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "pravdu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Neboj se!",
+      "english": "Don't be afraid!",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Neboj se!",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Ona bydlí v Brně.",
+      "english": "She lives in Brno.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Ona",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "bydlí",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "v Brně.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Pomalu se učíme.",
+      "english": "We are learning slowly.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Pomalu",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "se učíme.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "V neděli nepracuji.",
+      "english": "On Sunday I don't work.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "V neděli",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        },
+        {
+          "word": "nepracuji.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Venku sněží.",
+      "english": "It's snowing outside.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Venku",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "sněží.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Nikdy nezpívám.",
+      "english": "I never sing.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Nikdy",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "nezpívám.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Tady se dobře jí.",
+      "english": "The food is good here.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "se jí",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dobře.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Rychle běžíme.",
+      "english": "We run fast.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Rychle",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "běžíme.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "Zavolej mi zítra!",
+      "english": "Call me tomorrow!",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Zavolej",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "zítra!",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "czech": "O víkendu odpočívají.",
+      "english": "They rest on the weekend.",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "O víkendu",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        },
+        {
+          "word": "odpočívají.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "czech": "Matka vaří večeři.",
+      "english": "Mother is cooking dinner.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Matka",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "vaří",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "večeři.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "czech": "Dívka čte dopis.",
+      "english": "The girl is reading a letter.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Dívka",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "čte",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dopis.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "czech": "Učitel kreslí mapu.",
+      "english": "The teacher is drawing a map.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Učitel",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "kreslí",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mapu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "czech": "Muž koupil dům.",
+      "english": "The man bought a house.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Muž",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "koupil",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dům.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "czech": "Ztratil jsem klíče.",
+      "english": "I lost the keys.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Ztratil jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "klíče.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "czech": "Napiš mi dopis!",
+      "english": "Write me a letter!",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Napiš",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "dopis!",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "czech": "Děti sbírají houby.",
+      "english": "The children are picking mushrooms.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Děti",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "sbírají",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "houby.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "czech": "Piju kávu každé ráno.",
+      "english": "I drink coffee every morning.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Piju",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "kávu",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "každé ráno.",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "czech": "Petr dává Marii knihu.",
+      "english": "Petr is giving Marie a book.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Petr",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "dává",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "Marii",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "knihu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "czech": "Maminka čte dětem pohádku.",
+      "english": "Mom is reading the children a fairy tale.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Maminka",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "čte",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dětem",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "pohádku.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "czech": "Učitelka dala studentům test.",
+      "english": "The teacher gave the students a test.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Učitelka",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "dala",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "studentům",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "test.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "czech": "Přines mi prosím pohár vody.",
+      "english": "Please bring me a cup of water.",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Přines",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "prosím",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "pohár vody!",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "czech": "Koupil jsem bratrovi dárek.",
+      "english": "I bought my brother a gift.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Koupil jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "bratrovi",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "dárek.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "czech": "Řekni mi pravdu!",
+      "english": "Tell me the truth!",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Řekni",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "pravdu!",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "czech": "Dám ti svoji adresu.",
+      "english": "I'll give you my address.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Dám",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "ti",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "svoji adresu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "To je profesor.",
+      "english": "That is a professor.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "profesor.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "To je studentka.",
+      "english": "That is a student (female).",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "studentka.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "To je cizinec.",
+      "english": "That is a foreigner.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "cizinec.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Je to cizinec?",
+      "english": "Is that a foreigner?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "to",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "cizinec?",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Učitel je tady.",
+      "english": "The teacher is here.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Učitel",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "tady.",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Učitel tady není.",
+      "english": "The teacher isn't here.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Učitel",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "není",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "tady.",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Jsem doma.",
+      "english": "I am at home.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jsem",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "doma.",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Nejsem cizinec.",
+      "english": "I am not a foreigner.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Nejsem",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "cizinec.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Jsem student.",
+      "english": "I am a student.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jsem",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "student.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Jste profesor?",
+      "english": "Are you a professor?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Jste",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "profesor?",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Jsi student?",
+      "english": "Are you a student?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Jsi",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "student?",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Kde jste?",
+      "english": "Where are you?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Kde",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "jste?",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Jste ve škole?",
+      "english": "Are you at school?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Jste",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ve škole?",
+          "role": "Predicate",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "To je káva.",
+      "english": "That is coffee.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "káva.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "To není káva.",
+      "english": "That is not coffee.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "není",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "káva.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Kde je škola?",
+      "english": "Where is the school?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Kde",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "škola?",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Co je to?",
+      "english": "What is that?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Co",
+          "role": "Predicate",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "to?",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Kdo je to?",
+      "english": "Who is that?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Kdo",
+          "role": "Predicate",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "to?",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Stůl je vpředu.",
+      "english": "The table is in the front.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Stůl",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "vpředu.",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Tady je velký pokoj.",
+      "english": "Here is a big room.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "velký pokoj.",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Na stole je kniha.",
+      "english": "On the table is a book.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Na stole",
+          "role": "Predicate",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "kniha.",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Na židli sedí mladý muž.",
+      "english": "On the chair sits a young man.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Na židli",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "sedí",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mladý muž.",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Jmenuji se Tomáš.",
+      "english": "My name is Tomáš.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jmenuji se",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "Tomáš.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Jmenuji se Jana.",
+      "english": "My name is Jana.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jmenuji se",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "Jana.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Těší mě.",
+      "english": "Nice to meet you.",
+      "silentSubject": "ono",
+      "tokens": [
+        {
+          "word": "Těší",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mě.",
+          "role": "IndirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "czech": "Děkuji, dobře.",
+      "english": "Thank you, well.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Děkuji",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "dobře.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Co si přejete?",
+      "english": "What would you like?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Co",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "si přejete?",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chtěl bych dva sendviče.",
+      "english": "I would like two sandwiches.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Chtěl bych",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "dva sendviče.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chtěla bych jeden housku se šunkou.",
+      "english": "I would like one sandwich with ham.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Chtěla bych",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "jeden housku se šunkou.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chtěli by pár sendvičů s tuňákem.",
+      "english": "They would like couple of sandwiches with tuna.",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "Chtěli by",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "pár sendvičů s tuňákem.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Co budete pít?",
+      "english": "What will you drink?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Co",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "budete pít?",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Dáme si kolu a džus.",
+      "english": "We will have cola and juice. ",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "kolu a džus.",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "Dáme si ",
+          "role": "Verb",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Je to všechno?",
+      "english": "Is that everything?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "to",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "všechno?",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chci eště jednu porci zmrzliny!",
+      "english": "I want one more portion of ice cream!",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Chci ",
+          "role": "Verb",
+          "case": ""
+        },
+        {
+          "word": "ještě jednu porci zmrzliny!",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Celkem to je 123 korun.",
+      "english": "Altogether it is 123 crowns.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Celkem",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "to",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "123 korun.",
+          "role": "Predicate",
+          "case": "genitive"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tady je dvousetkoruna.",
+      "english": "Here is a two-hundred-crown note.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "dvousetkoruna.",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tady máte 77 korun zpátky.",
+      "english": "Here is 77 crowns back.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "máte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "77 korun zpátky.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Kolik platím?",
+      "english": "How much do I pay?",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Kolik",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "platím?",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "To není možné.",
+      "english": "That is not possible.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "není",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "možné.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Můžete mi zkontrolovat účet?",
+      "english": "Can you check the bill for me?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Můžete zkontrolovat",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "účet?",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Spočítám to ještě jednou.",
+      "english": "I will count it once more.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Spočítám",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "to",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "ještě jednou.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "To je jeden šampon za 89 korun.",
+      "english": "That is one shampoo for 89 crowns.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "jeden šampon za 89 korun",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Máte pravdu.",
+      "english": "You are right.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Máte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "pravdu.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tady na účtu je ještě něco za 108 korun.",
+      "english": "Here on the bill there is something else for 108 crowns.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tady na účtu",
+          "role": "Predicate",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ještě něco za 108 korun.",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "To je multivitamin.",
+      "english": "That is a multivitamin.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "multivitamin.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Už jsem si ho dala do tašky.",
+      "english": "I already put it in my bag. (said by a woman)",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Už",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "jsem si dala",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "do tašky.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        },
+        {
+          "word": "ho",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Nemáte prosím drobné?",
+      "english": "Don't you have small change, please?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Nemáte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "prosím",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "drobné?",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Bohužel ne, mám jen tisícovku.",
+      "english": "Unfortunately no, I only have a thousand-crown note.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Bohužel ne,",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "mám",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "jen tisícovku.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Nějak to udělám.",
+      "english": "I'll manage it somehow.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Nějak",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "to",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "udělám.",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tady máte 624 korun zpátky.",
+      "english": "Here is 624 crowns back.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "máte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "624 korun zpátky.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Kolik to stojí?",
+      "english": "How much does it cost?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Kolik",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "to",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "stojí?",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Kolik stojí černá káva?",
+      "english": "How much does black coffee cost?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Kolik",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "stojí",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "černá káva?",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Kolik stojí jeden rohlík?",
+      "english": "How much does one bread roll cost?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Kolik",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "stojí",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "jeden rohlík?",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Kolik stojí zubní pasta?",
+      "english": "How much does toothpaste cost?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Kolik",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "stojí",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "zubní pasta?",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Kolik stojí jedno pivo?",
+      "english": "How much does one beer cost?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Kolik",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "stojí",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "jedno pivo?",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chtěl bych kávu.",
+      "english": "I would like coffee.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Chtěl bych",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "kávu.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Šla bych do kina.",
+      "english": "I would go to the cinema. (said by a woman)",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Šla bych",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "do kina.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chtěl bys čaj?",
+      "english": "Would you like tea?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Chtěl bys",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "čaj?",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Líbilo by se mi béžové sako.",
+      "english": "I would like a beige jacket.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Líbilo by se",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "běžové sako.",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": " mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Jdu do obchodu.",
+      "english": "I'm going to the shop.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jdu",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "do obchodu.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Jdu do školy.",
+      "english": "I'm going to school.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jdu",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "do školy.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Jdu do práce.",
+      "english": "I'm going to work.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jdu",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "do práce.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Dejte mi prosím kilo cukru.",
+      "english": "Please give me a kilo of sugar.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Dejte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "prosím",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "kilo cukru.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Dejte mi prosím 10 deka kávy.",
+      "english": "Please give me 10 decagrams of coffee.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Dejte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "prosím",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "10 deka kávy.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Dejte mi prosím litr vína.",
+      "english": "Please give me a litre of wine.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Dejte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "prosím",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "litr vína.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Dejte mi prosím kousek sýra.",
+      "english": "Please give me a piece of cheese.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Dejte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "prosím",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "kousek sýra.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Petr je větší než já.",
+      "english": "Petr is taller than me.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Petr",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "větší než já.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Petr je největší z rodiny.",
+      "english": "Petr is the tallest in the family.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Petr",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "největší z rodiny.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Petr jí více než já.",
+      "english": "Petr eats more than me.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Petr",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "jí",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "více než já.",
+          "role": "DirectObject",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tomáš je lepší student než já.",
+      "english": "Tomáš is a better student than me.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tomáš",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "lepší student než já.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Učí se lépe než já.",
+      "english": "He learns better than me.",
+      "silentSubject": "on",
+      "tokens": [
+        {
+          "word": "Učí se",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "lépe než já.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Zůstanu raději doma.",
+      "english": "I'd rather stay at home.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Zůstanu",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "raději",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "doma.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Rozumí česky víc než já.",
+      "english": "He understands Czech more than me.",
+      "silentSubject": "on",
+      "tokens": [
+        {
+          "word": "Rozumí",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "česky",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "víc než já.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Umím to udělat lépe než ty.",
+      "english": "I can do it better than you.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Umím udělat",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "to",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "lépe než ty.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Je tady tepleji než u nás doma.",
+      "english": "It is warmer here than at our home.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "tady tepleji než u nás doma.",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tenhle modrý svetr je hezčí než ten hnědý.",
+      "english": "This blue sweater is nicer than the brown one.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tenhle modrý svetr",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "hezčí než ten hnědý.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Mám staršího bratra a mladší sestru.",
+      "english": "I have an older brother and a younger sister.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Mám",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "staršího bratra a mladší sestru.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "To je velmi drahé.",
+      "english": "That is very expensive.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "velmi drahé.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Máte něco levnějšího?",
+      "english": "Do you have anything cheaper?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Máte",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "něco levnějšího?",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Už je osm hodin.",
+      "english": "It is already eight o'clock.",
+      "silentSubject": "ono",
+      "tokens": [
+        {
+          "word": "Už",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "osm hodin.",
+          "role": "Predicate",
+          "case": "genitive"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Zavolám domů.",
+      "english": "I'll call home.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Zavolám",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "domů.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Neslyším tady nic.",
+      "english": "I can't hear anything here.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Neslyším",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "tady",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "nic.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Jdu tamhle do rohu.",
+      "english": "I'm going over there to the corner.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jdu",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "tamhle do rohu.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chtěla bych si někde sednout.",
+      "english": "I would like to sit down somewhere. (said by a woman)",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Chtěla bych si sednout",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "někde.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Můžeme jít vedle do kavárny.",
+      "english": "We can go next door to the café.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Můžeme jít",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "vedle do kavárny.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Teď pojedeme pro chleba, máslo, sýry a jogurty.",
+      "english": "Now we'll go for bread, butter, cheeses and yogurts.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Teď",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "pojedeme",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "pro chleba, máslo, sýry a jogurty.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Ty můžeš jet pro minerálky, džusy a pivo.",
+      "english": "You can go for mineral water, juices and beer.",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Ty",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "můžeš jet",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "pro minerálky, džusy a pivo.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tady jsou čokolády!",
+      "english": "Here are chocolates!",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "jsou",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "čokolády.",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Jednu si vezmu.",
+      "english": "I'll take one.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jednu",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "si vezmu.",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Koupím taky pro Zuzanku a Martina.",
+      "english": "I'll also buy some for Zuzanka and Martin.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Koupím ",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "taky ",
+          "role": "Complement",
+          "case": "",
+          "subtype": null
+        },
+        {
+          "word": "pro Zuzanku a Martina.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Nevidím nikde svou peněženku.",
+      "english": "I don't see my wallet anywhere.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Nevidím",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "nikde",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "svou peněženku.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Asi jsem ji zapomněla doma.",
+      "english": "I probably forgot it at home. (said by a woman)",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Asi",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "jsem zapomněla",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "doma.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": " ji",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Nevadí, zaplatím kartou.",
+      "english": "It doesn't matter, I'll pay by card.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Nevadí",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "zaplatím",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "kartou.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tam je ale dlouhá fronta!",
+      "english": "But there is a long queue there!",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tam",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ale dlouhá fronta.",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Budeme čekat nejméně půl hodiny.",
+      "english": "We will wait at least half an hour.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Budeme čekat",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "nejméně půl hodiny.",
+          "role": "Complement",
+          "case": "",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tady mají krásné věci!",
+      "english": "They have beautiful things here!",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "mají",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "krásné věci.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Musíš mít ty nádherné šaty!",
+      "english": "You have to have that gorgeous dress!",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "ty nádherné šaty",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "Musíš mít",
+          "role": "Verb",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chtěla bych si je prohlédnout.",
+      "english": "I would like to look at them. (said by a woman)",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Chtěla bych si prohlédnout.",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "je",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Pojďme do butiku!",
+      "english": "Come to the boutique!",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Pojďme",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "do butiku!",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Včera sis přece koupila sukni.",
+      "english": "Yesterday you bought a skirt, after all. (said to a woman)",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Včera",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "sis  koupila",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "sukni.",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "přece",
+          "role": "Complement",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tyhle šaty se mi líbí.",
+      "english": "I like these dresses.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tyhle šaty",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "se líbí.",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": " mi ",
+          "role": "IndirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Ty potřebuješ něco letního.",
+      "english": "You need something summery.",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Ty",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "potřebuješ",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "něco letního.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Přejete si něco konkrétního?",
+      "english": "Would you like something specific?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Přejete si",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "něco konkrétního?",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Můžu vám něco ukázat?",
+      "english": "Can I show you something?",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Můžu ukázat?",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "něco",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chci si prohlédnout tyhle červené šaty.",
+      "english": "I want to look at these red dresses.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Chci si prohlédnout",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "tyhle červené šaty.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Manželovi chceme vybrat nějaké letní sako.",
+      "english": "We want to pick out a summer jacket for my husband.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Manželovi",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "chceme vybrat",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "nějaké letní sako.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tady si můžete vybrat.",
+      "english": "Here you can choose.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "si můžete vybrat.",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Které se vám líbí?",
+      "english": "Which ones do you like?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Které",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "se  líbí?",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Docela se mi líbí tohle šedivé sako.",
+      "english": "I quite like this grey jacket.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Docela",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "se  líbí",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "tohle šedivé sako.",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Je to moje velikost?",
+      "english": "Is it my size?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "to",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "moje velikost?",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Můžu si ho zkusit?",
+      "english": "Can I try it on?",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Můžu si  zkusit?",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ho",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tam vzadu je kabina.",
+      "english": "Back there is a cubicle.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tam vzadu",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "kabina.",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tady je velké zrcadlo.",
+      "english": "Here is a big mirror.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "velké zrcadlo.",
+          "role": "Subject",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Zkusím si ho tady.",
+      "english": "I'll try it on here.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Zkusím si ",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "tady.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "ho",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Sluší mi to?",
+      "english": "Does it suit me?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Sluší",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "to?",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Potřebujete větší.",
+      "english": "You need a bigger one.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Potřebujete",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "větší.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Tohle větší mi sedí dobře.",
+      "english": "Yes, this bigger one fits me well.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tohle větší",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "sedí",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "dobře.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Mám si ji vzít?",
+      "english": "Should I take it?",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Mám si  vzít?",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ji",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Co mu říkáš?",
+      "english": "What do you say to it?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Co",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "mu",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "říkáš?",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Sluší ti, má veselou barvu.",
+      "english": "It suits you, it has a cheerful color.",
+      "silentSubject": "ono",
+      "tokens": [
+        {
+          "word": "Sluší",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ti.",
+          "role": "IndirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Má veselou barvu.",
+      "english": "It has a cheerful color.",
+      "silentSubject": "ono",
+      "tokens": [
+        {
+          "word": "Má",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "veselou barvu.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Určitě si ho musíš koupit.",
+      "english": "You definitely have to buy it.",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Určitě",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "si  musíš koupit.",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ho",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Zkusila sis také něco?",
+      "english": "Did you try something on too? (said to a woman)",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Zkusila sis",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "také",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "něco?",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Moc mi sluší.",
+      "english": "They suit me very well.",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "Moc",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": " sluší",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mi",
+          "role": "DirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Mají k nim krásné boty!",
+      "english": "And they also have beautiful shoes to go with them!",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": " k nim",
+          "role": "Complement",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "mají",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "krásné boty!",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chcete si je také zkusit?",
+      "english": "Do you want to try them on too?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Chcete si  zkusit?",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "také",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "je",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Přejete si ještě něco jiného?",
+      "english": "Would you like anything else?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Přejete si",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ještě něco jiného?",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Děkujeme, to je všechno.",
+      "english": "Thank you, that is everything.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Děkujeme",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "to",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "všechno.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Zaplatíme sako a šaty.",
+      "english": "We'll pay for the jacket and the dress.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Zaplatíme",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "sako a šaty.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Platit budete hotově?",
+      "english": "Will you pay in cash?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Platit budete",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "hotově?",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Ne, budeme platit platební kartou.",
+      "english": "No, will pay by credit card.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "platební kartou.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": "manner"
+        },
+        {
+          "word": "budeme platit ",
+          "role": "Verb",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Mám velkou radost.",
+      "english": "I am very happy.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Mám",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "velkou radost.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Nejraději bych šla do divadla.",
+      "english": "I would most gladly go to the theatre. (said by a woman)",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": " bych šla",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "do divadla.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        },
+        {
+          "word": "Nejraději",
+          "role": "Complement",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Hledám tě už dlouho.",
+      "english": "I've been looking for you for a long time.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Hledám",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "tě",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "už dlouho.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Byl jsem se podívat na elektroniku.",
+      "english": "I went to look at the electronics.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Byl jsem se podívat",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "na elektroniku.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "My nakupujeme na víkend.",
+      "english": "We shop for the weekend.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "My",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "nakupujeme",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "na víkend.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Co máš ve vozíku?",
+      "english": "What do you have in the cart?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Co",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "máš",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ve vozíku?",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Nechceš ji koupit?",
+      "english": "Don't you want to buy it?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Nechceš  koupit?",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "ji",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Zapomněli jsme koupit dárek pro babičku. ",
+      "english": "We forgot to buy a present for grandmother. ",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Zapomněli jsme koupit",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "dárek",
+          "role": "DirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "pro babičku.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Nevím kam jít.",
+      "english": "I don't know where to go.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Nevím",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "kam jít.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Jsem rád, že jsem tě poznal.",
+      "english": "I'm glad I met you. (said by a man)",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jsem",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "rád, že jsem tě poznal. ",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Znáte se?",
+      "english": "Do you know each other?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Znáte se?",
+          "role": "Verb",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "To je můj přítel.",
+      "english": "This is my friend.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "můj přítel.",
+          "role": "Predicate",
+          "case": "nominative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Těší mě, že vás poznávám.",
+      "english": "Pleased to meet you.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Těší",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "mě",
+          "role": "IndirectObject",
+          "case": "accusative"
+        },
+        {
+          "word": "že vás poznávám.",
+          "role": "Complement",
+          "case": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Chci vám představit svého přítele.",
+      "english": "I want to introduce my friend to you.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Chci představit",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "svého přítele.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Děkuji za krásný večer.",
+      "english": "Thank you for a lovely evening.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Děkuji",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "za krásný večer.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "czech": "Kdy se zase uvidíme?",
+      "english": "When will we see each other again?",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Kdy",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "se  uvidíme?",
+          "role": "Verb",
+          "case": null
+        },
+        {
+          "word": "zase",
+          "role": "Complement",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Naše firma se zabývá výrobou dveří a oken.",
+      "english": "Our company deals with the manufacture of doors and windows.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Naše firma",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "se zabývá",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "výrobou dveří a oken.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Naše firma obchoduje s většinou českých partnerů.",
+      "english": "Our company trades with most Czech partners.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Naše firma",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "obchoduje",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "s většinou českých partnerů.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Několik měsíců jsem pracoval v jedné firmě.",
+      "english": "I worked in a company for several months.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Několik měsíců",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "time"
+        },
+        {
+          "word": "jsem pracoval",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "v jedné firmě.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Vrátil jsem se z Prahy před dvěma dny.",
+      "english": "I returned from Prague two days ago.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Vrátil jsem se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "z Prahy",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        },
+        {
+          "word": "před dvěma dny.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Seznámil jsem se s ním na dovolené.",
+      "english": "I met him on holiday.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Seznámil jsem se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "s ním",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        },
+        {
+          "word": "na dovolené.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Zajímám se o práci v zahraničí.",
+      "english": "I am interested in working abroad.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Zajímám se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "o práci ",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "v zahraničí.",
+          "role": "Complement",
+          "case": "locative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Praha se stala kulturním centrem Evropy.",
+      "english": "Prague became a cultural centre of Europe.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Praha",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "se stala",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "kulturním centrem Evropy.",
+          "role": "Predicate",
+          "case": "instrumental",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Mluvil jsem s vašimi kolegy.",
+      "english": "I spoke with your colleagues.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Mluvil jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "s vašimi kolegy.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Nejsem spokojený s cenou.",
+      "english": "I am not satisfied with the price.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Nejsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "spokojený s cenou.",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Pan Kubát se sešel s panem Fisherem v kanceláři.",
+      "english": "Mr Kubát met with Mr Fisher in the office.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Pan Kubát",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "se sešel",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "s panem Fisherem",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        },
+        {
+          "word": "v kanceláři.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Vítám vás u nás v Praze.",
+      "english": "Welcome to Prague.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Vítám",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "vás",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "u nás ",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        },
+        {
+          "word": "v Praze.",
+          "role": "Complement",
+          "case": "locative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jsem Petr Kubát, obchodní ředitel naší firmy.",
+      "english": "I am Petr Kubát, the business director of our company.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "Petr Kubát, obchodní ředitel naší firmy.",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Těší mě.",
+      "english": "Nice to meet you.",
+      "silentSubject": "ono",
+      "tokens": [
+        {
+          "word": "Těší",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mě.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jsem rád, že vás poznávám.",
+      "english": "I am glad to meet you.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "rád.",
+          "role": "Predicate",
+          "case": "",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jakou jste měl cestu?",
+      "english": "How was your journey?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Jakou",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "jste měl",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "cestu?",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Cesta byla příjemná.",
+      "english": "The journey was pleasant.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Cesta",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "byla",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "příjemná.",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Trvala dlouho.",
+      "english": "It took a long time.",
+      "silentSubject": "ona",
+      "tokens": [
+        {
+          "word": "Trvala",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dlouho.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Posadte se prosím.",
+      "english": "Please sit down.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Posadte se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "prosím.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Můžu vám nabídnout kávu?",
+      "english": "Can I offer you coffee?",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Můžu nabídnout",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "kávu?",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Děkuju, rád si vezmu.",
+      "english": "Thank you, I'd be glad to.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Děkuju",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": " si vezmu.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "rád",
+          "role": "Complement",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Máme ještě nějaké otázky k návrhu smlouvy.",
+      "english": "We still have some questions about the draft contract.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Máme",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "ještě nějaké otázky",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "k návrhu smlouvy.",
+          "role": "Complement",
+          "case": "dative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Také bychom chtěli s vámi projednat některé detaily.",
+      "english": "We would also like to discuss some details with you.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Také",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "bychom chtěli projednat",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "s vámi",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        },
+        {
+          "word": "některé detaily.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jak dlouhou záruční dobu mají vaše výrobky?",
+      "english": "How long a warranty do your products have?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Jak dlouhou záruční dobu",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "mají",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "vaše výrobky?",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Reklamovat je můžete přímo u nás.",
+      "english": "You can complain about them directly with us.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Reklamovat",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "můžete",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "přímo u nás.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Naši zákazníci si stěžují na špatný servis.",
+      "english": "Our customers complain about poor service.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Naši zákazníci",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "si stěžují",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na špatný servis.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Opravy trvají dlouho.",
+      "english": "Repairs take a long time.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Opravy",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "trvají",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dlouho.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Situace teď bude lepší.",
+      "english": "The situation will be better now.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Situace",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "bude",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "lepší.",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "teď ",
+          "role": "Complement",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Otevíráme v České republice dva nové servisy.",
+      "english": "We are opening two new service centres in the Czech Republic.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Otevíráme",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "v České republice",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "dva nové .",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Naši technici zajistí rychlou opravu přímo na místě.",
+      "english": "Our technicians will ensure a quick repair right on site.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Naši technici",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "zajistí",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "rychlou opravu",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "přímo na místě.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "V tom případě se smlouvou souhlasíme.",
+      "english": "In that case we agree with the contract.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "V tom případě",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": null
+        },
+        {
+          "word": " souhlasíme.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "se smlouvou",
+          "role": "Complement",
+          "case": "instrumental"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Ještě jednou si ji prostuduju.",
+      "english": "I'll study it once more.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Ještě jednou",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "si  prostuduju.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "ji",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Sejdeme se zítra?",
+      "english": "Shall we meet tomorrow?",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Sejdeme se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "zítra.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Podívejte se na naše otázky.",
+      "english": "Take a look at our questions.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Podívejte se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na naše otázky.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Připravil jsem je pro vás.",
+      "english": "I prepared them for you.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Připravil jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "pro vás.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Budeme o nich jednat zítra.",
+      "english": "We will discuss them tomorrow.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Budeme jednat",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "o nich",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": null
+        },
+        {
+          "word": "zítra.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Která hodina se vám zítra hodí?",
+      "english": "Which time suits you tomorrow?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Která hodina",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "se  hodí?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "zítra",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Přijdu stejně jako dneska.",
+      "english": "I'll come the same as today.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Přijdu",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "stejně jako dneska.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Kdybych nemohl přijít, zavolám vám.",
+      "english": "If I couldn't come, I would call you.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Kdybych nemohl přijít",
+          "role": "Complement",
+          "case": null,
+          "subtype": "condition"
+        },
+        {
+          "word": "zavolám",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "vám.",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Poslali pro vás do hotelu auto?",
+      "english": "Did they send a car to your hotel?",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "Poslali",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "pro vás",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "do hotelu",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        },
+        {
+          "word": "auto?",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Sešli jsme se před dvěma roky.",
+      "english": "We met two years ago.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Sešli jsme se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "před dvěma roky.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Byl jsem na dovolené deset dní.",
+      "english": "I was on holiday for ten days.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Byl jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na dovolené",
+          "role": "Predicate",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "deset dní.",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Bydlím dvacet kilometrů od Prahy.",
+      "english": "I live twenty kilometres from Prague.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Bydlím",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dvacet kilometrů ",
+          "role": "Complement",
+          "case": "nominative",
+          "subtype": "place"
+        },
+        {
+          "word": "od Prahy.",
+          "role": "Complement",
+          "case": "genitive"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Přijedu do hotelu v pět hodin.",
+      "english": "I'll come to the hotel at five o'clock.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Přijedu",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "do hotelu",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        },
+        {
+          "word": "v pět hodin.",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Sejdeme se u nás v pět.",
+      "english": "We'll meet at our place at five.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Sejdeme se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "u nás",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        },
+        {
+          "word": "v pět.",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Ten pokoj je o dva metry delší.",
+      "english": "That room is two metres longer.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Ten pokoj",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "o dva metry delší.",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Četl jsem román Milana Kundery.",
+      "english": "I read a novel by Milan Kundera.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Četl jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "román ",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "Milana Kundery.",
+          "role": "DirectObject",
+          "case": "genitive"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Večer se sejdu s Honzou.",
+      "english": "In the evening I'll meet John.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Večer",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "se sejdu",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "s Honzou.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Tamhle vidím kolegu.",
+      "english": "I see a colleague over there.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Tamhle",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "vidím",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "kolegu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Předseda zahájí schůzi.",
+      "english": "The chairman will open the meeting.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Předseda",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "zahájí",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "schůzi.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "V Národním muzeu je nová výstava.",
+      "english": "There is a new exhibition in the National Museum.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "V Národním muzeu",
+          "role": "Predicate",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "nová výstava.",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Tramvaj jede do centra.",
+      "english": "The tram goes to the centre.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Tramvaj",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "jede",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "do centra.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Řekl mi o muzeích v Praze.",
+      "english": "He told me about the museums in Prague.",
+      "silentSubject": "on",
+      "tokens": [
+        {
+          "word": "Řekl",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "o muzeích v Praze.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Prodáváme výrobky do všech průmyslových zemí.",
+      "english": "We sell our products to all industrial countries.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Prodáváme",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "výrobky",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "do všech průmyslových zemí.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Udělali jsme poslední zkoušku.",
+      "english": "We took our last exam.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Udělali jsme",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "poslední zkoušku.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Začaly mi prázdniny.",
+      "english": "My holidays began.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Začaly",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "prázdniny.",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Neměl jsem přesný plán.",
+      "english": "I didn't have a precise plan.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Neměl jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "přesný plán.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Chtěl jsem jet na brigádu.",
+      "english": "I wanted to go to a summer job.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Chtěl jsem jet",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na brigádu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Byl už červenec.",
+      "english": "It was already July.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Byl",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "už",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "červenec.",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Nejdřív jsem začal hledat mezi známými.",
+      "english": "First I started looking among acquaintances.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Nejdřív",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "jsem začal hledat",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mezi známými.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Nejlepší by bylo jít do studentské hospody.",
+      "english": "The best thing would be to go to the student pub.",
+      "silentSubject": "ono",
+      "tokens": [
+        {
+          "word": "Nejlepší ",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "by bylo",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": " jít ",
+          "role": "DirectObject",
+          "case": "",
+          "subtype": "place"
+        },
+        {
+          "word": "do studentské hospody.",
+          "role": "DirectObject",
+          "case": "genitive"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Hledám brigádu.",
+      "english": "I'm looking for a summer job.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Hledáme",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "brigádu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Budu prodávat kola.",
+      "english": "I'll be selling bicycles.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Budu prodávat",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "kola.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Budu průvodkyně na hradě Křivoklát.",
+      "english": "I'll be a guide at Křivoklát Castle.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Budu",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "průvodkyní ",
+          "role": "Predicate",
+          "case": "instrumental",
+          "subtype": null
+        },
+        {
+          "word": "na hradě Křivoklát.",
+          "role": "Predicate",
+          "case": "locative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Budu pracovat na poště.",
+      "english": "I'll work at the post office.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Budu pracovat",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na poště.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Budu pomáhat při opravě jednoho kostela.",
+      "english": "I'll help with the repair of a church.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Budu pomáhat",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "při opravě jednoho kostela.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Já jsem tam byla.",
+      "english": "I was there. (said by a woman)",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Já",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "jsem byla.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "tam",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Asi budupomáhat jedné rodině s třemi dětmi.",
+      "english": "I'll probably help a family with three children.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Asi",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "budu  pomáhat",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "jedné rodině",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": " s třemi dětmi.",
+          "role": "IndirectObject",
+          "case": "instrumental"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "O jakou práci se zajímáš?",
+      "english": "What kind of work are you interested in?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "O jakou práci",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "se zajímáš?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Nejraději bych dělal něco s počítačem.",
+      "english": "I would most like to do something with computers.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Nejraději bych dělal",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "něco ",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "s počítačem.",
+          "role": "DirectObject",
+          "case": "instrumental"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "V loni jsem pracoval v jedné bance.",
+      "english": "Last year I worked in a bank.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "V loni",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "time"
+        },
+        {
+          "word": "jsem pracoval",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "v jedné bance.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Letos mě nepotřebujou.",
+      "english": "This year they don't need me.",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "Letos",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "mě",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "nepotřebujou.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Studuju ekonomii.",
+      "english": "I study economics.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Studuju",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "ekonomii.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Hodila by se mi další praxe.",
+      "english": "Further experience would come in handy.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Hodila by se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "další praxe.",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Vždycky jsi chtěl být ekonomem?",
+      "english": "Did you always want to be an economist?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Vždycky",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "jsi chtěl být",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "ekonomem?",
+          "role": "Predicate",
+          "case": "instrumental",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Vždycky jsem se chtěl stát architektem.",
+      "english": "I always wanted to become an architect.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Vždycky",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "jsem se chtěl stát",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "architektem.",
+          "role": "Predicate",
+          "case": "instrumental",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Na architekturu mě nevzali.",
+      "english": "They didn't accept me for architecture.",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "Na architekturu",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "mě",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "nevzali.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Šel jsem studovat ekonomii.",
+      "english": "I went to study economics.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Šel jsem studovat",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "ekonomii.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Máš řidičák?",
+      "english": "Do you have a driver's licence?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Máš",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "řidičák?",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Ty o něčem víš?",
+      "english": "Do you know about something?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Ty",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "o něčem",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": null
+        },
+        {
+          "word": "víš?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Mohl bys rozvážet pizzu.",
+      "english": "You could deliver pizzas.",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Mohl bys rozvážet",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "pizzu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Tady máš vizitku.",
+      "english": "Here's a business card.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Tady",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "máš",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "vizitku.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Zavolej tam hned zítra.",
+      "english": "Call them right tomorrow.",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Zavolej",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "tam",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "hned zítra.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jsou to moji známí.",
+      "english": "They are my acquaintances.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Jsou",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "to",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "moji známí.",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Seznámil jsem se s Martinou.",
+      "english": "I met Martina.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Seznámil jsem se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "s Martinou.",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Do Prahy jsme přiletěli v půl třetí.",
+      "english": "We arrived in Prague at half past two.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Do Prahy",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        },
+        {
+          "word": "jsme přiletěli",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "v půl třetí.",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Cesta z Frankfurtu nebyla dlouhá.",
+      "english": "The journey from Frankfurt wasn't long.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Cesta z Frankfurtu",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "nebyla",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dlouhá.",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Trvala jen hodinu.",
+      "english": "It took only an hour.",
+      "silentSubject": "ona",
+      "tokens": [
+        {
+          "word": "Trvala",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "jen hodinu.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "U pasové kontroly bylo hodně lidí.",
+      "english": "There were many people at passport control.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "U pasové kontroly",
+          "role": "Predicate",
+          "case": "genitive",
+          "subtype": "place"
+        },
+        {
+          "word": "bylo",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "hodně lidí.",
+          "role": "Subject",
+          "case": "genitive",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Můžete jít na celní prohlídku.",
+      "english": "You can go to customs inspection.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Můžete jít",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na celní prohlídku.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Ať se vám u nás líbí.",
+      "english": "I hope you enjoy your stay with us.",
+      "silentSubject": "ono",
+      "tokens": [
+        {
+          "word": "Ať ",
+          "role": "Complement",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "u nás",
+          "role": "Complement",
+          "case": "genitive"
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative"
+        },
+        {
+          "word": "se   líbí.",
+          "role": "Verb",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Máte něco k proclení?",
+      "english": "Do you have anything to declare?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Máte",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "něco ",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "k proclení?",
+          "role": "DirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Mám jen osobní věci.",
+      "english": " I only have personal belongings.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Mám",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "jen osobní věci.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Přijíždíte na dlouho?",
+      "english": "Are you coming for long?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Přijíždíte",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na dlouho?",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "To je v pořádku.",
+      "english": "That's all right.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "To",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "v pořádku.",
+          "role": "Predicate",
+          "case": "locative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Můžete jít.",
+      "english": "You can go.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Můžete jít.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Konečně jsem byl po půl hodině venku.",
+      "english": "Finally, after half an hour, I was outside.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Konečně",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "jsem byl",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "po půl hodině",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "time"
+        },
+        {
+          "word": "venku.",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "V hale mě nikdo nečekal.",
+      "english": "Nobody was waiting for me in the terminal.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "V hale",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "mě",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "nikdo",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "nečekal.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Zavolal jsem svým známým.",
+      "english": "I called my friends.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Zavolal jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "svým známým.",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Bojíte se létat?",
+      "english": "Are you afraid of flying?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Bojíte se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "létat?",
+          "role": "DirectObject",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Létáte často?",
+      "english": "Do you fly often?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Létáte",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "často?",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Které země jste navštívil?",
+      "english": "Which countries have you visited?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Které země",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "jste navštívil?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Kde se vám líbilo nejvíc?",
+      "english": "Where did you like it most?",
+      "silentSubject": "ono",
+      "tokens": [
+        {
+          "word": "Kde",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "se  líbilo",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "nejvíc?",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Už přijíždí náš vlak.",
+      "english": "Our train is arriving.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Už",
+          "role": "Complement",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": " přijíždí ",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "náš vlak.",
+          "role": "DirectObject",
+          "case": "accusative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Mám problém.",
+      "english": "I have a problem.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Mám",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "problém.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Potřebuji přivézt domů jednu skříň.",
+      "english": "I need to bring a wardrobe home.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Potřebuji přivézt",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "domů",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "jednu skříň.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Já to tady přivezu.",
+      "english": "I'll bring it here.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Já",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "to",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": " přivezu.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "tady",
+          "role": "Complement",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Odvezl jsem domů knihy.",
+      "english": "I took the books home.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Odvezl jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "domů",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "knihy.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Přinesl jsem něco k jídlu.",
+      "english": "I brought something to eat.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Přinesl jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "něco ",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "k jídlu.",
+          "role": "DirectObject",
+          "case": "dative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Vynesl jsem nahoru tenhle stůl.",
+      "english": "I carried this table upstairs.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Vynesl jsem",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "nahoru",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "tenhle stůl.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Manželka přišla radostně domů.",
+      "english": "The wife came home happily.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Manželka",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "přišla",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "radostně",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "domů.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Nejsou ti malé?",
+      "english": "Aren't they too small for you?",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "Nejsou",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "ti",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "malé?",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jak je to možné?",
+      "english": "How is that possible?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Jak",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "to",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "možné?",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "V obchodě mi bylo dobře.",
+      "english": "In the shop I felt well.",
+      "silentSubject": "ony",
+      "tokens": [
+        {
+          "word": "V obchodě",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "mi",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "bylo",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dobře.",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Celý den jste strávili na cestě. ",
+      "english": "You spent the whole day on the road. ",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Celý den",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": "time"
+        },
+        {
+          "word": "jste strávili",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na cestě.",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "V recepci však na vaše jméno žádnou rezervaci nemají.",
+      "english": "At the reception, however, they have no reservation under your name.",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "V recepci",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "však",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "na vaše jméno",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "žádnou rezervaci",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "nemají.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Rozzlobíte se.",
+      "english": "You get angry.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Rozzlobíte se.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Pokoj jsem objednával před měsícem telefonicky.",
+      "english": "I booked the room a month ago by phone.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Pokoj",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "jsem objednával",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "před měsícem",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": "time"
+        },
+        {
+          "word": "telefonicky.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Bohužel však žádný volný dvoulůžkový pokoj nemáme.",
+      "english": "Unfortunately, however, we don't have any free double room.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Bohužel",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "však",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "žádný volný dvoulůžkový pokoj",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "nemáme.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Chcete si pronajmout malý byt?",
+      "english": "Do you want to rent a small flat?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Chcete si pronajmout",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "malý byt?",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Nechcete také bydlet daleko od centra.",
+      "english": "You also don't want to live far from the centre?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Nechcete bydlet",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "také",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "daleko od centra?",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Teď si přichází prohlédnout jeden byt ve čtvrti na kraji města.",
+      "english": "Now they're coming to look at a flat in a district on the edge of the city.",
+      "silentSubject": "oni",
+      "tokens": [
+        {
+          "word": "Teď",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "si přichází prohlédnout",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "jeden byt.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "ve čtvrti na kraji města",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Čtvrť se vám také moc nelíbí.",
+      "english": "You don't like the district much either.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Čtvrť",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "se  nelíbí,",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "také moc",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Nakonec dojdete k domu.",
+      "english": "Finally you reach the building.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Nakonec",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "dojdete",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "k domu.",
+          "role": "Complement",
+          "case": "dative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Mluvili jsme spolu včera telefonicky.",
+      "english": "We spoke together on the phone yesterday.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Mluvili jsme",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "spolu",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "včera",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "telefonicky.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jdu si prohlédnout byt.",
+      "english": "I'm coming to look at the flat.",
+      "silentSubject": "já",
+      "tokens": [
+        {
+          "word": "Jdu si prohlédnout",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "byt.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Má dost velký obývací pokoj.",
+      "english": "It has a fairly big living room.",
+      "silentSubject": "on",
+      "tokens": [
+        {
+          "word": "Má",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "dost velký obývací pokoj.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Vaše kolegyně s někým telefonuje.",
+      "english": "Your colleague is on the phone with someone.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Vaše kolegyně",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": " telefonuje.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "s někým",
+          "role": "Complement",
+          "case": "instrumental"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Dívá  se smutně z okna.",
+      "english": "She looks sadly out of the window.",
+      "silentSubject": "ona",
+      "tokens": [
+        {
+          "word": "Dívá se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "smutně",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "z okna.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Něco není v pořádku.",
+      "english": "Something is wrong.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Něco",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": " není ",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "v pořádku.",
+          "role": "Predicate",
+          "case": "locative"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Chcete jí pomoct?",
+      "english": "You want to help her.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Chcete pomoct?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "jí",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Přijdete k ní?",
+      "english": "You come to her.",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Přijdete",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "k ní?",
+          "role": "Complement",
+          "case": "dative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jitko, není ti dobře?",
+      "english": "Jitka, are you not well?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Jitko,",
+          "role": "Complement",
+          "case": "vocative",
+          "subtype": null
+        },
+        {
+          "word": "není",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "ti",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "dobře?",
+          "role": "Predicate",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Stalo se něco?",
+      "english": "Did something happen?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Stalo se",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "něco?",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Pojď, půjdeme na chvíli ven.",
+      "english": "Come, let's go outside for a while.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Pojď,",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "půjdeme",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na chvíli",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        },
+        {
+          "word": "ven.",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Venku vám Jitka začne vyprávět, že se stalo něco s přítelem.",
+      "english": "Outside Jitka will start telling you that something happened with her boyfriend.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Venku",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "vám",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "Jitka",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "začne vyprávět",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "že se stalo něco s přítelem.",
+          "role": "DirectObject",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Ve městě jste potkal svou přítelkyni.",
+      "english": "In town you met your girlfriend.",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Ve městě",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": "place"
+        },
+        {
+          "word": "jste potkal",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "svou přítelkyni.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Před dvěma dny měla odletět s rodinou na dva týdny k moři.",
+      "english": "Two days ago she was supposed to fly with her family to the sea for two weeks.",
+      "silentSubject": "ona",
+      "tokens": [
+        {
+          "word": "Před dvěma dny",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": "time"
+        },
+        {
+          "word": "měla odletět",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "s rodinou",
+          "role": "Complement",
+          "case": "instrumental",
+          "subtype": null
+        },
+        {
+          "word": "na dva týdny",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        },
+        {
+          "word": "k moři.",
+          "role": "Complement",
+          "case": "dative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jste zvědaví?",
+      "english": "Are you curious?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Jste ",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "zvědaví?",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jano, poběž!",
+      "english": "Jana, come on!",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "poběž!",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "Jano,",
+          "role": "Subject",
+          "case": "vocative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jsi doma?",
+      "english": "How come you're at home?",
+      "silentSubject": "ty",
+      "tokens": [
+        {
+          "word": "Jsi",
+          "role": "Verb",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "doma?",
+          "role": "Predicate",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Co se stalo?",
+      "english": "What happened?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Co",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "se stalo?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Nám se nestalo nic.",
+      "english": "Nothing happened to us.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Nám",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "se nestalo",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "nic.",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Přijeli jsme na letiště.",
+      "english": "We came to the airport.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Přijeli jsme",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "na letiště.",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Zástupce cestovní kanceláře nám měl dát letenky.",
+      "english": "The travel agency representative was supposed to give us the tickets.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Zástupce cestovní kanceláře",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "nám",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "měl dát",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "letenky.",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Čekalo nás tam asi dvacet lidí.",
+      "english": "About twenty people were waiting for us there.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Čekalo",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "nás",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "tam",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "asi dvacet lidí.",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Odlet jsme měli v jedenáct.",
+      "english": "We were supposed to depart at eleven.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Odlet",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "jsme měli",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "v jedenáct.",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "V jednu jsme už byli všichni nervózní.",
+      "english": "By ten o'clock we were all nervous.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "V jednu",
+          "role": "Complement",
+          "case": "accusative",
+          "subtype": "time"
+        },
+        {
+          "word": "jsme  byli",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": " všichni nervózní.",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "už",
+          "role": "Predicate",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Zástupce nepřišel.",
+      "english": "The representative didn't come.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Zástupce",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "nepřišel.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Stále jsme telefonovali do cestovní kanceláře.",
+      "english": "We kept calling the travel agency.",
+      "silentSubject": "my",
+      "tokens": [
+        {
+          "word": "Stále",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "jsme telefonovali",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "do cestovní kanceláře.",
+          "role": "Complement",
+          "case": "genitive",
+          "subtype": "place"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Ale nikdo to nebral.",
+      "english": "But nobody picked it up.",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Ale",
+          "role": "Complement",
+          "case": null
+        },
+        {
+          "word": "nikdo",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "to",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "nebral.",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jak to skončilo?",
+      "english": "How did it end?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Jak",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        },
+        {
+          "word": "to",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "skončilo?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jak se jmenujete?",
+      "english": "What is your name?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Jak",
+          "role": "Predicate",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "se jmenujete?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jaké je vaše jméno a příjmení?",
+      "english": "What is your first and last name?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Jaké",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "vaše jméno a příjmení?",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Kdy a kde jste se narodil?",
+      "english": "When and where were you born?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Kdy a kde",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        },
+        {
+          "word": "jste se narodil?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Kolik je vám let?",
+      "english": "How old are you?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Kolik let",
+          "role": "Subject",
+          "case": "genitive",
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "vám?",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Kde bydlíte?",
+      "english": "Where do you live?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Kde",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "bydlíte?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jaká je vaše přesná adresa?",
+      "english": "What is your exact address?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Jaká",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "vaše přesná adresa?",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jaké máte telefonní číslo?",
+      "english": "What phone number do you have?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Jaké",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "máte",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "telefonní číslo?",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jste svobodný, nebo ženatý?",
+      "english": "Are you single or married?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Jste",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "svobodný, nebo ženatý?",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Jste svobodná, nebo vdaná?",
+      "english": "Are you single or married?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Jste",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "svobodná, nebo vdaná?",
+          "role": "Predicate",
+          "case": "nominative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Kolik máte dětí?",
+      "english": "How many children do you have?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Kolik dětí",
+          "role": "DirectObject",
+          "case": "genitive",
+          "subtype": null
+        },
+        {
+          "word": "máte?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Kolik jim je teď?",
+      "english": "How old are they now?",
+      "silentSubject": "—",
+      "tokens": [
+        {
+          "word": "Kolik",
+          "role": "Subject",
+          "case": "nominative",
+          "subtype": null
+        },
+        {
+          "word": "jim",
+          "role": "IndirectObject",
+          "case": "dative",
+          "subtype": null
+        },
+        {
+          "word": "je",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "teď?",
+          "role": "Complement",
+          "case": null,
+          "subtype": "time"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Kde pracujete?",
+      "english": "Where do you work?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Kde",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "pracujete?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Kde jste studoval?",
+      "english": "Where did you study?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Kde",
+          "role": "Complement",
+          "case": null,
+          "subtype": "place"
+        },
+        {
+          "word": "jste studoval?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Které jazyky znáte?",
+      "english": "Which languages do you know?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Které jazyky",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "znáte?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Proč se učíte česky?",
+      "english": "Why are you learning Czech?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Proč",
+          "role": "Complement",
+          "case": null,
+          "subtype": "reason"
+        },
+        {
+          "word": "se učíte",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "česky?",
+          "role": "Complement",
+          "case": null,
+          "subtype": "manner"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Která česká a moravská města jste už navštívil?",
+      "english": "Which Czech and Moravian cities have you already visited?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Která česká a moravská města",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "jste  navštívil?",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "už",
+          "role": "Complement",
+          "case": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "Co si myslíte o Češích?",
+      "english": "What do you think of Czechs?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "Co",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "si myslíte",
+          "role": "Verb",
+          "case": null,
+          "subtype": null
+        },
+        {
+          "word": "o Češích?",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": null
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "czech": "A co víte o češtině?",
+      "english": "And what do you know about Czech?",
+      "silentSubject": "vy",
+      "tokens": [
+        {
+          "word": "A co",
+          "role": "DirectObject",
+          "case": "accusative",
+          "subtype": null
+        },
+        {
+          "word": "o češtině",
+          "role": "Complement",
+          "case": "locative",
+          "subtype": null
+        },
+        {
+          "word": "víte",
+          "role": "Verb",
+          "case": ""
+        }
+      ]
+    }
+  ]
+}
