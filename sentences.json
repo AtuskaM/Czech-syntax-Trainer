@@ -4586,7 +4586,7 @@
       "silentSubject": "vy",
       "tokens": [
         {
-          "word": "Posadte se",
+          "word": "Posaďte se",
           "role": "Verb",
           "case": null,
           "subtype": null
@@ -5228,8 +5228,8 @@
         },
         {
           "word": "deset dní.",
-          "role": "Complement",
-          "case": "accusative",
+          "role": "Predicate",
+          "case": "genitive",
           "subtype": "time"
         }
       ]
@@ -5512,7 +5512,7 @@
         },
         {
           "word": "o muzeích v Praze.",
-          "role": "Complement",
+          "role": "DirectObject",
           "case": "locative",
           "subtype": null
         }
@@ -6744,8 +6744,8 @@
         },
         {
           "word": "náš vlak.",
-          "role": "DirectObject",
-          "case": "accusative"
+          "role": "Subject",
+          "case": "nominative"
         }
       ]
     },
@@ -8294,8 +8294,8 @@
       "tokens": [
         {
           "word": "Kolik",
-          "role": "Subject",
-          "case": "nominative",
+          "role": "Predicate",
+          "case": "null",
           "subtype": null
         },
         {
